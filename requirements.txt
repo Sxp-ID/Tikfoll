@@ -1,0 +1,6 @@
+fake-useragent
+Direct-Download
+pycryptodome
+requests
+rich
+bs4
