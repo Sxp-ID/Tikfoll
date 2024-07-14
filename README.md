@@ -11,10 +11,10 @@ Script termux auto followers tiktok terbaru !
 $ git clone https://github.com/Sxp-ID/Tikfoll
 $ cd Tikfoll
 $ make install
-$ python Run.py
+$ ./main
 
 Atau bisa juga run script nya dg ketik perintah
-$ ./main
+$ make run
 ```
 </details>
 
