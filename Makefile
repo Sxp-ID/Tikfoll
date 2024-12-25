@@ -4,7 +4,7 @@ install:
 	apt-get install bash curl wget jq
 	apt-get install python python-pip
 	apt-get install clang ncurses-utils bc
-	apt-get install neofetch nano
+	apt-get install neofetch xz-utils nano
 	python -m pip install -r data/requirements.txt
 	@gcc main.c -o main
 	@clear
