@@ -1,5 +1,0 @@
-fake-useragent
-inquirer
-requests
-rich
-bs4
